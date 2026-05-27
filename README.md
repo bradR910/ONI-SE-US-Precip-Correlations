@@ -1,0 +1,1 @@
+This notebook analyzes the relationship between the Oceanic Niño Index (ENSO) and precipitation anomalies over the southeastern United States, computing seasonal and lagged correlations across the 1950–2024 record and fitting a linear regression to quantify how well winter ONI predicts the following summer's rainfall.
